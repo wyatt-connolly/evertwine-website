@@ -20,8 +20,17 @@ export default function Footer() {
     Support: [
       { name: "Help Center", href: "/help" },
       { name: "Contact Us", href: "/contact" },
+    ],
+    Legal: [
       { name: "Privacy Policy", href: "/privacy" },
       { name: "Terms of Service", href: "/terms" },
+      { name: "Cookie Policy", href: "/cookie-policy" },
+      { name: "EULA", href: "/eula" },
+      {
+        name: "Consumer Health Data Privacy",
+        href: "/consumer-health-privacy",
+      },
+      { name: "Colorado Privacy Notice", href: "/colorado-privacy" },
     ],
     Community: [
       { name: "Events", href: "/events" },
@@ -164,12 +173,6 @@ export default function Footer() {
                 className="text-gray-400 hover:text-white transition-colors duration-200 text-sm"
               >
                 Terms of Service
-              </a>
-              <a
-                href="/privacy"
-                className="text-gray-400 hover:text-white transition-colors duration-200 text-sm"
-              >
-                Cookie Policy
               </a>
             </div>
           </div>
