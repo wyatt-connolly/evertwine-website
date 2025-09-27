@@ -81,7 +81,7 @@ export default function SuccessStoriesPage() {
                   </div>
                 </div>
                 <div className="text-2xl mb-3">{story.image}</div>
-                <p className="text-gray-300 text-sm mb-4 italic">"{story.story}"</p>
+                <p className="text-gray-300 text-sm mb-4 italic">&ldquo;{story.story}&rdquo;</p>
                 <div className="space-y-2">
                   <div className="flex items-center space-x-2 text-sm">
                     <span className="text-blue-400">📅</span>
@@ -98,7 +98,7 @@ export default function SuccessStoriesPage() {
 
           <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-8 text-center mb-16">
             <h2 className="text-3xl font-bold text-white mb-4">Share Your Story</h2>
-            <p className="text-blue-100 mb-6">Have you made meaningful connections through Evertwine? We'd love to hear your story!</p>
+            <p className="text-blue-100 mb-6">Have you made meaningful connections through Evertwine? We&apos;d love to hear your story!</p>
             <button className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition-colors duration-200">
               Share Your Story
             </button>

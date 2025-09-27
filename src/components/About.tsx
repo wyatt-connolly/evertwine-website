@@ -68,7 +68,7 @@ export default function About() {
             About Evertwine
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            We're on a mission to help people build meaningful relationships
+            We&apos;re on a mission to help people build meaningful relationships
             through real-world experiences and shared interests.
           </p>
         </motion.div>
@@ -92,7 +92,7 @@ export default function About() {
               </p>
               <p className="text-gray-300">
                 We believe that the best relationships start with shared
-                experiences. Whether it's a coffee meetup, a hiking adventure,
+                experiences. Whether it&apos;s a coffee meetup, a hiking adventure,
                 or a happy hour, these moments create the foundation for lasting
                 friendships.
               </p>

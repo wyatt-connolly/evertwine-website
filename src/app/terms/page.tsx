@@ -111,7 +111,7 @@ export default function TermsPage() {
               Limitation of Liability
             </h2>
             <p className="text-gray-300 text-sm mb-4">
-              Evertwine is provided "as is" without any warranties, express or
+              Evertwine is provided &ldquo;as is&rdquo; without any warranties, express or
               implied. We do not guarantee the accuracy, completeness, or
               usefulness of any information on our platform.
             </p>

@@ -47,7 +47,7 @@ export default function PressPage() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold">TechCrunch</h4>
-                    <p className="text-gray-300 text-sm">"Evertwine is revolutionizing how people connect in the digital age"</p>
+                    <p className="text-gray-300 text-sm">&ldquo;Evertwine is revolutionizing how people connect in the digital age&rdquo;</p>
                     <p className="text-gray-400 text-xs">Read more →</p>
                   </div>
                 </div>
@@ -57,7 +57,7 @@ export default function PressPage() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold">Forbes</h4>
-                    <p className="text-gray-300 text-sm">"The social app that's bringing back real-world connections"</p>
+                    <p className="text-gray-300 text-sm">&ldquo;The social app that&apos;s bringing back real-world connections&rdquo;</p>
                     <p className="text-gray-400 text-xs">Read more →</p>
                   </div>
                 </div>
@@ -67,7 +67,7 @@ export default function PressPage() {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold">Wired</h4>
-                    <p className="text-gray-300 text-sm">"How Evertwine is solving the loneliness epidemic"</p>
+                    <p className="text-gray-300 text-sm">&ldquo;How Evertwine is solving the loneliness epidemic&rdquo;</p>
                     <p className="text-gray-400 text-xs">Read more →</p>
                   </div>
                 </div>

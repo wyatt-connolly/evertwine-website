@@ -1,9 +1,9 @@
 "use client";
 
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef, useState } from "react";
-import { CheckCircle, ArrowRight, Users, MapPin, Heart } from "lucide-react";
+import { ArrowRight, Users, MapPin, Heart } from "lucide-react";
 import WaitlistModal from "./WaitlistModal";
 
 export default function CommunityCTA() {
@@ -47,7 +47,7 @@ export default function CommunityCTA() {
               <ArrowRight className="w-5 h-5" />
             </motion.button>
             <p className="text-sm text-blue-200 mt-4">
-              No spam, ever. We'll only email you when we launch.
+              No spam, ever. We&apos;ll only email you when we launch.
             </p>
 
             {/* Benefits */}
@@ -145,13 +145,13 @@ export default function CommunityCTA() {
               <div className="space-y-3">
                 <div className="bg-white/20 rounded-lg p-3">
                   <div className="text-sm text-white">
-                    "Can't wait for this to launch!"
+                    &ldquo;Can&apos;t wait for this to launch!&rdquo;
                   </div>
                   <div className="text-xs text-blue-200 mt-1">- Sarah, SF</div>
                 </div>
                 <div className="bg-white/20 rounded-lg p-3">
                   <div className="text-sm text-white">
-                    "Finally, a real social app!"
+                    &ldquo;Finally, a real social app!&rdquo;
                   </div>
                   <div className="text-xs text-blue-200 mt-1">
                     - Mike, Austin
@@ -159,7 +159,7 @@ export default function CommunityCTA() {
                 </div>
                 <div className="bg-white/20 rounded-lg p-3">
                   <div className="text-sm text-white">
-                    "This is exactly what I needed"
+                    &ldquo;This is exactly what I needed&rdquo;
                   </div>
                   <div className="text-xs text-blue-200 mt-1">- Emma, NYC</div>
                 </div>

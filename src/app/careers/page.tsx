@@ -12,8 +12,8 @@ export default function CareersPage() {
               Join Our Team
             </h1>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              Help us build the future of social connection. We&apos;re looking for
-              passionate people who want to make a difference.
+              Help us build the future of social connection. We&apos;re looking
+              for passionate people who want to make a difference.
             </p>
           </div>
 

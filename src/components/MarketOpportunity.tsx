@@ -4,9 +4,7 @@ import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
 import {
-  TrendingUp,
   Users,
-  DollarSign,
   Target,
   BarChart3,
   Globe,
